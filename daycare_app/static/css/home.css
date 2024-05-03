@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+
+.jobs h2 small{
+    color: #5850ec;
+    font-weight: 600;
+    display: inline-block;
+    margin-left: 1rem;
+    font-size: .9rem;
+}
+
+.jobs table{
+    border-collapse: collapse;
+}
+
+.jobs table tr{
+    background: #fff;
+}
+.jobs table td{
+    background: #fff;
+}
